@@ -11,4 +11,4 @@ Este programa simples é escrito em JavaScript e tem como objetivo exibir uma sa
 - CSS: Para estilizar o formulário e torná-lo visualmente atraente.
 - JavaScript: Linguagem de programação utilizada para adicionar interatividade e funcionalidades ao projeto, permitindo interatividade e recursos dinâmicos em sites.
 ### Autora:
-Tamires Rodrigues de Oliveira. [Meu Perfil no LinkedIn](https:[//www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/tamires-rodrigues-b2247b1a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMM3Wz%2FiJS2eh47utAVnqbg%3D%3D)https://www.linkedin.com/in/tamires-rodrigues-b2247b1a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMM3Wz%2FiJS2eh47utAVnqbg%3D%3D/)
+ [Tamires Rodrigues de Oliveira.](https://www.linkedin.com/in/tamires-rodrigues-b2247b1a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMM3Wz%2FiJS2eh47utAVnqbg%3D%3D)
